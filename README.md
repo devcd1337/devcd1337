@@ -1,6 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>i am Ali from Germany and i am a Junior-Developer!</p>
-
+<hr>
+<img src="" width="" height="" alt="Ups">
 
 <!--
 **devcd1337/devcd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
