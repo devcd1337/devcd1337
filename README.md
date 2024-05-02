@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=1)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&hide=javascript,css&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&langs_count=2&theme=dark&hide_border=true&hide_title=true&hide_rank=true&bg_color=45,90,45,10&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&theme=dark&hide_border=true&hide_title=true&hide_rank=true)
+[[
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=1)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&hide=javascript,css&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&langs_count=2&theme=dark&hide_border=true&hide_title=true&hide_rank=true&bg_color=45,90,45,10&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&theme=dark&hide_border=true&hide_title=true&hide_rank=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=2&hide=javascript,css&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&theme=dark&hide_border=true&hide_title=true&hide_rank=true&bg_color=45,90,45,10&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&theme=dark&hide_border=true&hide_title=true&hide_rank=true&hide=jupyter%20notebook&exclude_repo=github-readme-stats&custom_title=Top%20Languages&card_width=445&theme=dark&hide_border=true&hide_title=true&hide_rank=true
+)
