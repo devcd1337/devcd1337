@@ -2,7 +2,7 @@
 <p>i am Ali from Germany and i am a Junior-Developer!</p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--
 **devcd1337/devcd1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
