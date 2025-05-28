@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>i am Ali from Germany and i am a Junior-Developer!</p>
+<p>i am Ali from Germany and i am a Developer!</p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="python" width="40" height="40"/> </a> </p>
