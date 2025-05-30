@@ -2,7 +2,7 @@
 <p>Ich bin Ali aus Deutschland und ich bin Entwickler!</p>
 <hr>
 
-<h3 align="center">Sprachen und Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Programmiersprachen -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
